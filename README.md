@@ -8,10 +8,11 @@ NanoKVM Scripts 是 NanoKVM 的脚本集合，用于方便的进行系统监控�
 
 ## Scripts
 
-- hello_world.py
-- system_monitor.sh
+- [hello_world.py](./src/hello_world.py)
+- [system_monitor.sh](./src/system_monitor.sh)
 
 
 ## License
 
 KCORES License 1.0
+
